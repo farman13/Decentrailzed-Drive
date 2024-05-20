@@ -48,4 +48,3 @@ contract Upload{
       return accessList[msg.sender];
     }
 }
-//0x94A97916b2c6fa3b3a5be2273E0bC6505815d98f
